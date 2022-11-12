@@ -1,0 +1,289 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    left: 418px;
+    top: 3px;
+    color: white;
+    position:absolute
+}
+
+h2 {
+    font-family: monospace;
+    font-display: bolder;
+    position: absolute;
+    top: 55px;
+    left: 405px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+footer {
+    position: relative;
+    font-family: cursive;
+
+}
+
+.box {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 10px solid white;
+    padding: 75px;
+    position: absolute;
+    left: 75px;
+    top: 100px;
+    margin: 25px;
+}
+
+
+
+.second {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border: 10px solid white;
+    padding: 75px;
+    position: absolute;
+    left: 75px;
+    top: 400px;
+    margin: 25px;
+}
+
+
+.third {
+    background-color: rgb(169, 169, 169);
+    width: 100px;
+    height: 100px;
+    border: 10px solid white;
+    padding: 75px;
+    position: absolute;
+    left: 450px;
+    top: 100px;
+    margin: 25px;
+}
+
+.fourth {
+
+    background-color: rgb(139, 69, 19);
+    width: 100px;
+    height: 100px;
+    border: 10px solid white;
+    padding: 75px;
+    position: absolute;
+    left: 450px;
+    top: 400px;
+    margin: 25px;
+}
+
+
+.fifth {
+    background-color: rgb(67, 133, 225);
+    width: 100px;
+    height: 100px;
+    border: 10px solid white;
+    padding: 75px;
+    position: absolute;
+    left: 800px;
+    top: 100px;
+    margin: 25px;
+}
+
+.sixth {
+    background-color: rgb(225, 60, 60);
+    width: 100px;
+    height: 100px;
+    border: 10px solid white;
+    padding: 75px;
+    position: absolute;
+    left: 800px;
+    top: 400px;
+    margin: 25px;
+}
+
+footer {
+    position: absolute;
+    top: 725px;
+    color: white;
+}
+
+h3 {
+    position: absolute;
+    left: 950px;
+    top: 705px;
+    font-family: cursive;
+}
+
+.jackie img {
+    height: 145px;
+    width: 245px;
+    position: absolute;
+    left: 110px;
+    top: 230px;
+}
+
+.jackie img:hover {
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    left: 225px;
+    top: 130px;
+    z-index: 100;
+}
+
+h6 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 130px;
+    top: 125px;
+    width: max-content;
+    font-family: monospace;
+}
+
+.patrick img {
+    height: 145px;
+    width: 225px;
+    position: absolute;
+    left: 120px;
+    top: 530px;
+}
+
+.patrick img:hover {
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    left: 225px;
+    top: 130px;
+    z-index: 100;
+}
+
+.patrick h6 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 140px;
+    top: 425px;
+    text-align:justify;
+    width: max-content;
+    font-family: monospace;
+}
+
+.turtledove img {
+    height: 165px;
+    width: 265px;
+    position: absolute;
+    left: 475px;
+    top: 230px;
+}
+
+.turtledove img:hover {
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    left: 225px;
+    top: 130px;
+    z-index: 100;
+}
+
+.turtledove h6 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 520px;
+    top: 125px;
+    width: max-content;
+    font-family: monospace;
+}
+
+.yzy750 img {
+    height: 155px;
+    width: 175px;
+    position: absolute;
+    left: 525px;
+    top: 520px;
+}
+
+.yzy750 img:hover {
+    height: 500px;
+    width: 575px;
+    position: absolute;
+    left: 300px;
+    top: 130px;
+    z-index: 100;
+}
+
+.yzy750 h6 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 520px;
+    top: 425px;
+    width: max-content;
+    font-family: monospace;
+}
+
+
+.hyper img {
+    height: 145px;
+    width: 215px;
+    position: absolute;
+    left: 850px;
+    top: 230px;
+}
+
+.hyper img:hover {
+    height: 500px;
+    width: 750px;
+    position: absolute;
+    left: 215px;
+    top: 130px;
+    z-index: 100;
+}
+
+.hyper h6 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 850px;
+    top: 125px;
+    width: max-content;
+    font-family: monospace;
+}
+
+.ow1 img {
+    height: 145px;
+    width: 225px;
+    position: absolute;
+    left: 850px;
+    top: 530px;
+}
+
+.ow1 img:hover {
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    left: 215px;
+    top: 130px;
+    z-index: 100;
+}
+
+.ow1 h6 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 860px;
+    top: 425px;
+    width: max-content;
+    font-family: monospace;
+}
